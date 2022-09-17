@@ -664,7 +664,7 @@ interface IDCAHubConfigHandler {
  */
 interface IDCAHubPlatformHandler {
   /**
-   * @notice Emitted when someone withdraws from the paltform balance
+   * @notice Emitted when someone withdraws from the platform balance
    * @param sender The address of the user that initiated the withdraw
    * @param recipient The address that received the withdraw
    * @param amounts The tokens (and the amount) that were withdrawn
